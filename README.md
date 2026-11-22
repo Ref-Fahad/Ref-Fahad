@@ -30,7 +30,74 @@
 ⚡ Here are my WakaTime statistics:
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-305%20hrs%2033%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.81%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3194 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+🌆 Daytime                11343 commits       ███████████████░░░░░░░░░░   60.61 % 
+🌃 Evening                4001 commits        █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
+🌙 Night                  178 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   3137 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Tuesday                  3601 commits        █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
+Wednesday                3440 commits        █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+Thursday                 3732 commits        █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
+Friday                   119 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Saturday                 1496 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+Sunday                   3191 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Dart                     13 hrs 58 mins      ███████████░░░░░░░░░░░░░░   43.40 % 
+Markdown                 5 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Other                    5 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+YAML                     3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Swift                    1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+
+🔥 Editors: 
+VS Code                  17 hrs 18 mins      █████████████░░░░░░░░░░░░   53.76 % 
+Claude Code              11 hrs 9 mins       █████████░░░░░░░░░░░░░░░░   34.65 % 
+Android Studio           1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Notes                    1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Codex Vscode             19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+
+💻 Operating System: 
+Mac                      32 hrs 11 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 15 hrs 53 mins (49.35%)
+
+✍️ 8,618 lines written by AI, 55 lines written by hand (99.37% AI-written)
+
+🔤 3,315,462 Input Tokens, 793,613 Output Tokens
+
+💵 $64.86 Estimated AI Cost This Week
+
+🧠 18 AI Sessions, 106 AI Prompts
+
+Opus                     7,452 lines         █████████████████████░░░░   85.35 % 
+GPT                      1,279 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.37% of written lines came from AI
+📄 Detailed Prompter — average 1,213 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 1.01% of changed lines were hand-edited
+```
 
 **I Mostly Code in Dart** 
 
@@ -45,5 +112,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-11-22 @04:54:26 UTC
+ Last Updated on 2026-11-22 @05:33:39 UTC
 <!--END_SECTION:waka-->
