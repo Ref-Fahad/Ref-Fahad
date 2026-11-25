@@ -30,7 +30,7 @@
 ⚡ Here are my WakaTime statistics:
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-307%20hrs%2038%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-308%20hrs%203%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.81%20million%20lines%20of%20code-blue?style=flat)
 
@@ -59,44 +59,44 @@ Sunday                   3191 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     12 hrs 45 mins      █████████████░░░░░░░░░░░░   53.12 % 
-Markdown                 4 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-Other                    3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-YAML                     2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-XML                      1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Dart                     9 hrs 51 mins       █████████████░░░░░░░░░░░░   51.70 % 
+Markdown                 3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+YAML                     2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Other                    2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+XML                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 58 mins      ████████████████░░░░░░░░░   62.34 % 
-Claude Code              7 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   31.59 % 
-Notes                    1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-Codex Vscode             23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+VS Code                  12 hrs 21 mins      ████████████████░░░░░░░░░   64.75 % 
+Claude Code              5 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   29.38 % 
+Notes                    1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 💻 Operating System: 
-Mac                      24 hrs 1 min        █████████████████████████   100.00 % 
+Mac                      19 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 24 mins (47.49%)
+⏱ AI Coding Time: 8 hrs 21 mins (43.84%)
 
-✍️ 8,377 lines written by AI, 51 lines written by hand (99.39% AI-written)
+✍️ 7,469 lines written by AI, 46 lines written by hand (99.39% AI-written)
 
-🔤 2,037,295 Input Tokens, 461,717 Output Tokens
+🔤 1,721,221 Input Tokens, 403,072 Output Tokens
 
-💵 $43.85 Estimated AI Cost This Week
+💵 $43.90 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 101 AI Prompts
+🧠 14 AI Sessions, 82 AI Prompts
 
-Opus                     7,203 lines         █████████████████████░░░░   84.92 % 
-GPT                      1,279 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Opus                     7,520 lines         █████████████████████████   100.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.39% of written lines came from AI
-📚 Verbose Prompter — average 2,236 characters per prompt
+📚 Verbose Prompter — average 2,667 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.98% of changed lines were hand-edited
+🚀 High AI Trust — 0.97% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -112,5 +112,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-11-24 @19:32:25 UTC
+ Last Updated on 2026-11-25 @03:32:30 UTC
 <!--END_SECTION:waka-->
