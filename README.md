@@ -23,8 +23,8 @@
 
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fahadislam-dev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadislam-dev&layout=donut)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RefFahad&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RefFahad&layout=donut)
 
 
 ⚡ Here are my WakaTime statistics:
